@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sarahcp5/CeballosPardoSarah-12.git"
+    "url": "git+https://github.com/PabloRuizS2/LOG-IN-POR-FORMULARIO.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sarahcp5/CeballosPardoSarah-12/issues"
+    "url": "https://github.com/PabloRuizS2/LOG-IN-POR-FORMULARIO.git/issues"
   },
-  "homepage": "https://github.com/sarahcp5/CeballosPardoSarah-12#readme",
+  "homepage": "https://github.com/PabloRuizS2/LOG-IN-POR-FORMULARIO.git#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-mongo": "^4.6.0",
